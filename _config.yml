@@ -25,7 +25,7 @@ paginate: 5
 paginate_path: "page:num"
 
 remote_theme : poole/lanyon
-title: Yiggdrasil
+title: Parsher with yiggdrasil
 tagline: 'logs for yiggdrasil'
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -37,7 +37,7 @@ github_username:  parsher
 
 # About/contact
 author:
-  name: Yiggdrasil
+  name: parsher
   url: https://www.instagram.com/yiggdrasil_ko/
   email: developer@yiggdrasil.com
 
